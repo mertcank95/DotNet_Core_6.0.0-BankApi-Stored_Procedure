@@ -1,0 +1,17 @@
+D:\.netcore\BankApi\Services\bin\Debug\net6.0\Services.deps.json
+D:\.netcore\BankApi\Services\bin\Debug\net6.0\Services.dll
+D:\.netcore\BankApi\Services\bin\Debug\net6.0\Services.pdb
+D:\.netcore\BankApi\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\.netcore\BankApi\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netcore\BankApi\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\.netcore\BankApi\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\.netcore\BankApi\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\.netcore\BankApi\Services\obj\Debug\net6.0\Services.dll
+D:\.netcore\BankApi\Services\obj\Debug\net6.0\refint\Services.dll
+D:\.netcore\BankApi\Services\obj\Debug\net6.0\Services.pdb
+D:\.netcore\BankApi\Services\obj\Debug\net6.0\ref\Services.dll
+D:\.netcore\BankApi\Services\bin\Debug\net6.0\Entities.dll
+D:\.netcore\BankApi\Services\bin\Debug\net6.0\Repositories.dll
+D:\.netcore\BankApi\Services\bin\Debug\net6.0\Entities.pdb
+D:\.netcore\BankApi\Services\bin\Debug\net6.0\Repositories.pdb
+D:\.netcore\BankApi\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
